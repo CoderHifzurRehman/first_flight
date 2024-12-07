@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import FlightBreadcrumb from "../components/FlightBreadcrumb";
-import OnewayFilterBox from "../components/searchResult/onewaySearchResult/onewayFilterBox";
+import OnewayFilterBox from "../components/searchResult/onewaySearchResult/OnewayFilterBox";
 import OnewayResultCard from "../components/searchResult/onewaySearchResult/OnewayResultCard";
 
 const OnewaySearchResult = () => {
