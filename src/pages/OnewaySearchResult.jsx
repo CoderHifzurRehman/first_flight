@@ -38,7 +38,7 @@ const OnewaySearchResult = () => {
                       />
                     </svg>
                   </div>
-                  <div class="sorting-dropdown">
+                  <div class="sorting-dropdown ff">
                     <select class="select2">
                       <option value="popular"> Sort by Popular</option>
                       <option value="low">Price low to high</option>
