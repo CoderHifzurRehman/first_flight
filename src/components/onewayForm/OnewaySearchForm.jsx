@@ -37,7 +37,7 @@ const OnewaySearchForm = () => {
   };
 
   const handleSubmit = () => {
-    navigate("/onewaySearchResult");
+    navigate("/OnewaySearchResult");
   };
 
   const renderForm = () => {

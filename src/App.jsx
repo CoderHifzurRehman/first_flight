@@ -40,7 +40,7 @@ function App() {
         <Route path="/login" element={<Login />}></Route>
         <Route path="/register" element={<Signup />}></Route>
         <Route
-          path="/onewaySearchResult"
+          path="/OnewaySearchResult"
           element={<OnewaySearchResult />}
         ></Route>
       </Routes>

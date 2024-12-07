@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import FlightBreadcrumb from "../components/FlightBreadcrumb";
-import OnewayFilterBox from "../components/searchResult/onewaySearchResult/OnewayFilterBox";
-import OnewayResultCard from "../components/searchResult/onewaySearchResult/OnewayResultCard";
+import OnewayFilterBox from "../components/searchResult/OnewaySearchResult/OnewayFilterBox";
+import OnewayResultCard from "../components/searchResult/OnewaySearchResult/OnewayResultCard";
 
 const OnewaySearchResult = () => {
   const [activeBox, setActiveBox] = useState(null);
